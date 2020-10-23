@@ -1,0 +1,17 @@
+D:\joyang\codes\c#\BlobDetection\bin\Debug\BlobDetection.exe.config
+D:\joyang\codes\c#\BlobDetection\bin\Debug\BlobDetection.exe
+D:\joyang\codes\c#\BlobDetection\bin\Debug\BlobDetection.pdb
+D:\joyang\codes\c#\BlobDetection\bin\Debug\AForge.dll
+D:\joyang\codes\c#\BlobDetection\bin\Debug\AForge.Imaging.dll
+D:\joyang\codes\c#\BlobDetection\bin\Debug\AForge.Math.dll
+D:\joyang\codes\c#\BlobDetection\bin\Debug\AForge.xml
+D:\joyang\codes\c#\BlobDetection\bin\Debug\AForge.Imaging.xml
+D:\joyang\codes\c#\BlobDetection\bin\Debug\AForge.Math.xml
+D:\joyang\codes\c#\BlobDetection\obj\Debug\BlobDetection.csprojAssemblyReference.cache
+D:\joyang\codes\c#\BlobDetection\obj\Debug\BlobDetection.Form1.resources
+D:\joyang\codes\c#\BlobDetection\obj\Debug\BlobDetection.Properties.Resources.resources
+D:\joyang\codes\c#\BlobDetection\obj\Debug\BlobDetection.csproj.GenerateResource.cache
+D:\joyang\codes\c#\BlobDetection\obj\Debug\BlobDetection.csproj.CoreCompileInputs.cache
+D:\joyang\codes\c#\BlobDetection\obj\Debug\BlobDetection.csproj.CopyComplete
+D:\joyang\codes\c#\BlobDetection\obj\Debug\BlobDetection.exe
+D:\joyang\codes\c#\BlobDetection\obj\Debug\BlobDetection.pdb
